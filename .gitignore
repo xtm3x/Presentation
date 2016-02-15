@@ -1,0 +1,12 @@
+
+.theos/_/DEBIAN/control
+
+.theos/_/Library/MobileSubstrate/DynamicLibraries/Presentation.dylib
+
+.theos/_/Library/MobileSubstrate/DynamicLibraries/Presentation.plist
+
+.theos/fakeroot
+
+.theos/last_package
+
+theos
